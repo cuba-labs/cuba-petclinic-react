@@ -1,0 +1,15 @@
+.main-layout {
+  height: 100%;
+}
+
+.page-layout-narrow {
+  max-width: 1024px;
+  margin: auto;
+}
+
+.editor-layout-narrow {
+  margin: 0 auto;
+  max-width: 600px;
+  border: 0;
+  background: transparent;
+}
